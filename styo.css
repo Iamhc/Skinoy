@@ -1,0 +1,13 @@
+#fo{
+    font-family:Raleway;
+  }
+  body{
+    background-color:rgb(233, 213, 213);
+  }
+  .idk{
+    position:fixed;
+    left:38%;
+    top:38%;
+    color:rgb(88, 65, 65);
+    font-size:100px;
+  }
